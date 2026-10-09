@@ -1,5 +1,4 @@
 # Digital-Logic-for-Gate
 >
 >
->
->
+
